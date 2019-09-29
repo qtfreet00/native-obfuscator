@@ -1,0 +1,4 @@
+.settings/
+bin/
+test/
+native-obfuscator.jar
